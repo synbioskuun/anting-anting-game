@@ -1,2 +1,2 @@
-# project-game
+# project-mugna
 Title: Project - Mugnâ
