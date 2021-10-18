@@ -1,2 +1,2 @@
 # mugna-game
-Title: Project: Mugnâ
+Title: Project - Mugnâ
